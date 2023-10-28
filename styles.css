@@ -1,0 +1,42 @@
+.content{
+    font-family: "Arial";
+}
+
+.buttons{
+    margin-bottom: 10px;
+}
+
+button{
+    width: 100x;
+    padding: 3px 5px 3px 5px;
+    background-color: #F0F0F0;
+    border: 2px solid lightgray;
+}
+
+input{
+    border: 2px solid lightgray;
+}
+
+.drawing_area{
+    width: 1600px;
+    height: 700px;
+}
+
+.square{
+    position: absolute;
+    background-color: red;
+    border: 1px solid black;
+    opacity: 0.9;
+}
+
+.triangle{
+    position: absolute;
+    opacity: 0.9;
+}
+
+.circle{
+    position: absolute;
+    background-color: green;
+    border: 1px solid black;
+    opacity: 0.9;
+}
